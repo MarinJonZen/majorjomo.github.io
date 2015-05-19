@@ -1,5 +1,7 @@
 # majorjomo.github.io
 
+## Introduction
+
 Personal development scratch pad.  This site will contain the following:
 * Technical journal of ideas
 * Document the various systems that I have defined for myself over the years
